@@ -5,8 +5,6 @@ title: Home
 
 # Darpan Choudhary
 
-![Profile Picture](/images/profile.jpg){.profile-image}
-
-Welcome to my personal website.
+![Profile Picture](/images/profile.png){.profile-image}
 
 Looking for quality athleisure? Visit [alai.fit](https://alai.fit)
