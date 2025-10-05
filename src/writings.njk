@@ -3,27 +3,28 @@ layout: layout.njk
 title: Writings
 ---
 
-Writings
+<h1>Writings</h1>
 
-
+<ul class="post-list">
 {% for post in collections.writings %}
-    
-        {{ post.date | date: "%B %d, %Y" }} - 
-        {{ post.data.title }}
-    
+    <li>
+        <span class="post-date">{{ post.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) }}</span> - 
+        <a href="{{ post.url }}">{{ post.data.title }}</a>
+    </li>
 {% endfor %}
+</ul>
 
-
-
-    Archives
+<div class="archive-section">
+    <h2>Archives</h2>
     {% set groupedPosts = collections.writings | groupByMonthYear %}
     {% for month, posts in groupedPosts %}
-    
-        {{ month }} ({{ posts.length }})
-        
+    <div class="archive-month">
+        <h3>{{ month }} ({{ posts.length }})</h3>
+        <ul class="post-list">
         {% for post in posts %}
-            {{ post.data.title }}
+            <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
         {% endfor %}
-        
-    
+        </ul>
+    </div>
     {% endfor %}
+</div>
