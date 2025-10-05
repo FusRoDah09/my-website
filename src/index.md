@@ -3,10 +3,10 @@ layout: layout.njk
 title: Home
 ---
 
-# Your Name
+# Darpan Choudhary
 
 ![Profile Picture](/images/profile.jpg){.profile-image}
 
 Welcome to my personal website.
 
-Looking for quality apparel? Visit [www.alai.fit](https://www.alai.fit)
+Looking for quality athleisure? Visit [alai.fit](https://alai.fit)
