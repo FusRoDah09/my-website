@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "src",
       output: "_site"
-    }
-    // No pathPrefix needed for custom domain
+    },
+    pathPrefix: "/my-website/"
   };
 };
