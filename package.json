@@ -1,0 +1,16 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Darpan Choudhary",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}

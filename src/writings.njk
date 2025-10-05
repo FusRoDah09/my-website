@@ -1,0 +1,29 @@
+---
+layout: layout.njk
+title: Writings
+---
+
+Writings
+
+
+{% for post in collections.writings %}
+    
+        {{ post.date | date: "%B %d, %Y" }} - 
+        {{ post.data.title }}
+    
+{% endfor %}
+
+
+
+    Archives
+    {% set groupedPosts = collections.writings | groupByMonthYear %}
+    {% for month, posts in groupedPosts %}
+    
+        {{ month }} ({{ posts.length }})
+        
+        {% for post in posts %}
+            {{ post.data.title }}
+        {% endfor %}
+        
+    
+    {% endfor %}
