@@ -120,3 +120,95 @@ th, td {
 th {
     background: #f0f0f0;
 }
+
+/* Writings page layout */
+.writings-container {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+.writings-main {
+    flex: 1;
+    min-width: 0;
+}
+
+.writings-sidebar {
+    width: 250px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 20px;
+}
+
+.writings-sidebar h2 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.archive-item {
+    margin-bottom: 5px;
+}
+
+.archive-month-header {
+    cursor: pointer;
+    padding: 5px 0;
+    user-select: none;
+}
+
+.archive-month-header:hover {
+    background: #f5f5f5;
+}
+
+.archive-arrow {
+    display: inline-block;
+    transition: transform 0.2s;
+    font-size: 10px;
+    margin-right: 5px;
+}
+
+.archive-item.expanded .archive-arrow {
+    transform: rotate(90deg);
+}
+
+.archive-month-name {
+    font-weight: normal;
+}
+
+.archive-count {
+    color: #666;
+    font-size: 14px;
+}
+
+.archive-posts {
+    display: none;
+    list-style: none;
+    margin: 5px 0 10px 20px;
+    padding: 0;
+}
+
+.archive-item.expanded .archive-posts {
+    display: block;
+}
+
+.archive-posts li {
+    margin-bottom: 5px;
+}
+
+.archive-posts a {
+    font-size: 14px;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .writings-container {
+        flex-direction: column;
+    }
+    
+    .writings-sidebar {
+        width: 100%;
+        position: static;
+        order: -1;
+        margin-bottom: 30px;
+    }
+}
