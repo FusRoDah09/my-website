@@ -1,19 +1,27 @@
-{{ title or "Your Name" }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or "Darpan Choudhary" }}</title>
+    <link rel="stylesheet" href="/my-website/css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="/my-website/">Home</a> |
+        <a href="/my-website/bio/">Bio</a> |
+        <a href="/my-website/writings/">Writings</a> |
+        <a href="/my-website/books/">Books</a> |
+        <a href="/my-website/investments/">Investments</a> |
+        <a href="/my-website/links/">Links</a>
+    </nav>
     
-
-
-    
-        Home |
-        Bio |
-        Writings |
-        Books |
-        Investments |
-        Links
-    
-    
-    
+    <main>
         {{ content | safe }}
+    </main>
     
-    
-    
-        &copy; {{ year or 2025 }} Darpan Choudhary
+    <footer>
+        <p>&copy; 2025 Darpan Choudhary</p>
+    </footer>
+</body>
+</html>
