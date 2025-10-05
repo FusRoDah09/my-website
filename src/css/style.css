@@ -156,10 +156,6 @@ th {
     user-select: none;
 }
 
-.archive-month-header:hover {
-    background: #f5f5f5;
-}
-
 .archive-arrow {
     display: inline-block;
     transition: transform 0.2s;
