@@ -1,10 +1,8 @@
 ---
-layout: layout.njk
+layout: blog-layout.njk
 title: MBA is (not?) important
 date: 2024-11-24
 ---
-
-# MBA is (not?) important
 
 The question of whether to pursue an MBA can feel overwhelming. Is it the golden ticket to career success? Or is it just a really expensive way to delay figuring out what you want to do with your life?
 
@@ -27,7 +25,7 @@ There's a reason for this. The sheer competition forces recruiters to use shortc
 
 But here's the thing: an MBA isn't necessarily about learning. It's about signaling. It's a way of saying, *"Hey, I'm credible. Take me seriously."*
 
-In many companies, especially in consulting and finance, an MBA often becomes essential to access higher-responsibility roles. In my case, one of the reasons I chose IIM Ahmedabad was future-proofing. My company hires exclusively from IIMA and ISB for entry-level roles, with rare exceptions like LSE and IIMB. Small team sizes mean they focus on candidates with proven credentials, and I wanted to position myself for those opportunities. **For me, it was about maximizing the likelihood of long-term career success**.<br>
+In many companies, especially in consulting and finance, an MBA often becomes essential to access higher-responsibility roles. In my case, one of the reasons I chose IIM Ahmedabad was future-proofing. My company hires exclusively from IIMA and ISB for entry-level roles, with rare exceptions like LSE and IIMB. Small team sizes mean they focus on candidates with proven credentials, and I wanted to position myself for those opportunities. For me, it was about maximizing the likelihood of long-term career success.<br>
 <br>
 
 #### **Survivorship bias in entrepreneurship**

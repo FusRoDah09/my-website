@@ -7,6 +7,6 @@ title: Links
 
 Find me on:
 
-- [X (Twitter)](https://x.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Instagram](https://instagram.com/yourusername)
+- [X (Twitter)](https://x.com/darpunn)
+- [LinkedIn](https://www.linkedin.com/in/darpan-choudhary)
+- [Instagram](https://www.instagram.com/darpunn)

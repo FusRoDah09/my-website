@@ -5,6 +5,4 @@ title: Bio
 
 # Bio
 
-Write your biography here. Keep it simple and straightforward.
-
-This is where you can talk about who you are, what you do, and what interests you.
+**Darpan Choudhary** is the founder of [Alai](https://alai.fit), an apparel brand. Previously, he was a consultant with Analysys Mason, where he worked on multiple projects across technology, media, and telecom sectors in the Middle East, Eastern Europe, Central Asia, and Southeast Asia
