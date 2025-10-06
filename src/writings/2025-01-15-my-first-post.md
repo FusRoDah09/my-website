@@ -5,7 +5,6 @@ date: 2024-11-24
 ---
 
 # MBA is (not?) important
-*November 24, 2024*
 
 The question of whether to pursue an MBA can feel overwhelming. Is it the golden ticket to career success? Or is it just a really expensive way to delay figuring out what you want to do with your life?
 

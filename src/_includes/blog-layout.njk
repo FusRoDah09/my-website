@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or "Darpan Choudhary" }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/bio/">Bio</a> |
+        <a href="/writings/">Writings</a> |
+        <a href="/books/">Books</a> |
+        <a href="/investments/">Investments</a> |
+        <a href="/links/">Links</a>
+    </nav>
+    
+    <main>
+        <article>
+            <h1>{{ title }}</h1>
+            <p class="post-meta-date">{{ date | date: "%B %d, %Y" }}</p>
+            {{ content | safe }}
+        </article>
+    </main>
+    
+    <footer>
+        <p>&copy; Darpan Choudhary | Built with <a href="https://www.11ty.dev/">11ty</a></p>
+    </footer>
+</body>
+</html>

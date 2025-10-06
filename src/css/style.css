@@ -105,3 +105,15 @@ th, td {
 th {
     background: #f0f0f0;
 }
+
+.post-meta-date {
+    color: #666;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: -15px;
+    margin-bottom: 25px;
+}
+
+article h1 {
+    margin-bottom: 5px;
+}
