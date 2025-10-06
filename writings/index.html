@@ -36,17 +36,27 @@
         <h2>Blog Archive</h2>
         
         
-        <div class="archive-item">
-            <div class="archive-month-header" onclick="this.parentElement.classList.toggle('expanded')">
+        <div class="archive-year">
+            <div class="archive-year-header" onclick="this.parentElement.classList.toggle('expanded')">
                 <span class="archive-arrow">▶</span>
-                <span class="archive-month-name">January 2025</span>
-                <span class="archive-count">(1)</span>
+                <span class="archive-year-name">2025</span>
             </div>
-            <ul class="archive-posts">
-            
-                <li><a href="/writings/2025-01-15-my-first-post/">My First Post</a></li>
-            
-            </ul>
+            <div class="archive-months">
+                
+                <div class="archive-month">
+                    <div class="archive-month-header" onclick="event.stopPropagation(); this.parentElement.classList.toggle('expanded')">
+                        <span class="archive-arrow">▶</span>
+                        <span class="archive-month-name">January</span>
+                        <span class="archive-count">(1)</span>
+                    </div>
+                    <ul class="archive-posts">
+                    
+                        <li><a href="/writings/2025-01-15-my-first-post/">My First Post</a></li>
+                    
+                    </ul>
+                </div>
+                
+            </div>
         </div>
         
     </aside>
