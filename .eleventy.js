@@ -7,14 +7,21 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getFilteredByGlob("src/writings/*.md").reverse();
   });
   
-  // Filter to group posts by month/year
-  eleventyConfig.addFilter("groupByMonthYear", function(posts) {
+  // Filter to group posts by year, then month
+  eleventyConfig.addFilter("groupByYear", function(posts) {
     const grouped = {};
     posts.forEach(post => {
       const date = new Date(post.date);
-      const key = `${date.toLocaleString('default', { month: 'long' })} ${date.getFullYear()}`;
-      if (!grouped[key]) grouped[key] = [];
-      grouped[key].push(post);
+      const year = date.getFullYear();
+      const month = date.toLocaleString('default', { month: 'long' });
+      
+      if (!grouped[year]) {
+        grouped[year] = {};
+      }
+      if (!grouped[year][month]) {
+        grouped[year][month] = [];
+      }
+      grouped[year][month].push(post);
     });
     return grouped;
   });

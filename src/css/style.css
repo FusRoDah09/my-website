@@ -1,126 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 16px;
-    line-height: 1.6;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background: #fff;
-    color: #000;
-}
-
-nav {
-    margin-bottom: 30px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #000;
-    font-size: 14px;
-}
-
-nav a {
-    color: #00f;
-    text-decoration: none;
-}
-
-nav a:visited {
-    color: #551a8b;
-}
-
-nav a:hover {
-    text-decoration: underline;
-}
-
-h1 {
-    font-size: 24px;
-    margin: 20px 0;
-}
-
-h2 {
-    font-size: 20px;
-    margin: 15px 0 10px;
-}
-
-h3 {
-    font-size: 18px;
-    margin: 10px 0;
-}
-
-a {
-    color: #00f;
-}
-
-a:visited {
-    color: #551a8b;
-}
-
-ul, ol {
-    margin-left: 30px;
-    margin-bottom: 15px;
-}
-
-.profile-image {
-    max-width: 200px;
-    margin: 20px 0;
-}
-
-.post-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.post-list li {
-    margin-bottom: 10px;
-}
-
-.post-date {
-    color: #666;
-    font-size: 14px;
-}
-
-.archive-section {
-    margin-top: 40px;
-    padding-top: 20px;
-    border-top: 1px solid #ccc;
-}
-
-.archive-month {
-    margin-bottom: 20px;
-}
-
-.archive-month h3 {
-    font-size: 16px;
-    margin-bottom: 5px;
-}
-
-footer {
-    margin-top: 50px;
-    padding-top: 20px;
-    border-top: 1px solid #000;
-    font-size: 14px;
-    color: #666;
-}
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 20px 0;
-}
-
-th, td {
-    border: 1px solid #000;
-    padding: 8px;
-    text-align: left;
-}
-
-th {
-    background: #f0f0f0;
-}
-
 /* Writings page layout */
 .writings-container {
     display: flex;
@@ -131,6 +8,10 @@ th {
 .writings-main {
     flex: 1;
     min-width: 0;
+}
+
+.writings-main h1 {
+    margin-top: 0;
 }
 
 .writings-sidebar {
@@ -144,10 +25,31 @@ th {
     font-size: 16px;
     margin-bottom: 15px;
     font-weight: bold;
+    margin-top: 0;
 }
 
-.archive-item {
+.archive-year {
     margin-bottom: 5px;
+}
+
+.archive-year-header {
+    cursor: pointer;
+    padding: 5px 0;
+    user-select: none;
+    font-weight: bold;
+}
+
+.archive-months {
+    display: none;
+    margin-left: 15px;
+}
+
+.archive-year.expanded .archive-months {
+    display: block;
+}
+
+.archive-month {
+    margin-bottom: 3px;
 }
 
 .archive-month-header {
@@ -163,8 +65,13 @@ th {
     margin-right: 5px;
 }
 
-.archive-item.expanded .archive-arrow {
+.archive-year.expanded > .archive-year-header .archive-arrow,
+.archive-month.expanded > .archive-month-header .archive-arrow {
     transform: rotate(90deg);
+}
+
+.archive-year-name {
+    font-weight: bold;
 }
 
 .archive-month-name {
@@ -183,7 +90,7 @@ th {
     padding: 0;
 }
 
-.archive-item.expanded .archive-posts {
+.archive-month.expanded .archive-posts {
     display: block;
 }
 
