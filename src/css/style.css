@@ -116,3 +116,44 @@ th {
 article h1 {
     margin-bottom: 5px;
 }
+
+/* Footnote styling */
+.footnote-ref {
+    color: #dddddd;
+    text-decoration: none;
+    font-size: 0.9em;
+}
+
+.footnote-ref a {
+    color: #dddddd;
+    text-decoration: none;
+}
+
+.footnotes {
+    margin-top: 60px;
+    padding-top: 20px;
+}
+
+.footnotes h2 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.footnotes ol {
+    margin-left: 20px;
+}
+
+.footnotes li {
+    margin-bottom: 10px;
+}
+
+/* Thanks section */
+.thanks {
+    margin-top: 40px;
+    color: #888888;
+    font-size: 14px;
+}
+
+.thanks b {
+    font-weight: bold;
+}
