@@ -12,9 +12,9 @@ It may seem harmless, but the problem with extended use of AI for writing is tha
 - come up with an idea given a specific context, 
 - outline your goal you want to achieve through this writing, 
 - understand the target audience, and 
-- find a coherent way to put your thoughts into words.<br><br>
+- find a coherent way to put your thoughts into words.<br>
 
-What you're really doing, without noticing, is outsourcing those steps to an LLM. The areas of the brain that are engaged during those steps are also used while problem solving, decision making, learning new habits, etc. Over time, as your brain adjusts to this reduced activity, it loses some of its ability to carry out these tasks efficiently.<br>
+What you're really doing, without noticing, is outsourcing those steps to an LLM. The areas of the brain that are engaged during those steps are also used for problem solving, decision making and learning new habits. Over time, as your brain adjusts to this reduced activity, it loses some of its ability to carry out these tasks efficiently.<br>
 
 ![0 iq cat](/images/0iqcat.png)
 
@@ -22,7 +22,7 @@ Earlier this year, MIT conducted a (not yet peer reviewed) study on the cognitiv
 
 The short-term benefit of saving time with the use of AI might not be worth the long-term damage to your cognitive abilities unless you can replace writing with an equally engaging activity. This is even more damaging for the younger users as it could significantly hinder their cognitive growth.<br><br>
 
-I'm not trying to disparage the efficiency in work that is brought on by AI. There is no doubt that it has improved my productivity significantly. The problem arises when the use of AI becomes so ingrained that you are unable to form any sentences without any assistance from it. As sad as it sounds but you need to make a conscious effort to not give in to the temptation of letting AI write everything for you.
+I'm not trying to disparage the efficiency in work that is brought on by AI. There is no doubt that it has improved my productivity significantly. The problem arises when you can’t write a sentence without asking it to think for you. As sad as it sounds but you need to make a conscious effort to not give in to the temptation of letting AI write everything for you.
 
 <br><br><br><br>
 
@@ -39,5 +39,5 @@ I'm not trying to disparage the efficiency in work that is brought on by AI. The
 <br><br>
 
 <div class="thanks">
-Thanks to ChatGPT for reading drafts of this.
+Thanks to ChatGPT for taking the time to read and provide feedback on early drafts of this essay.
 </div>
