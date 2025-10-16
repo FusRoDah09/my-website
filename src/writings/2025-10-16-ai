@@ -1,0 +1,43 @@
+---
+layout: blog-layout.njk
+title: Don't let AI write everything for you
+date: 2025-10-16
+---
+
+I have been trying to get back into writing regularly. I ran into more problems than I expected, mostly because I've relied so heavily on generative AI for the last two years. Once you get used to writing with AI, it's hard to go back. I still use AI, but I have limited its use to analysing whether the essay is unified and reads well. Before generative AI was a thing, it was much easier for me to come up with an early draft and then edit it myself.<br><br>
+
+The reason is simple: our brains are lazy and enjoy taking shortcuts while thinking. AI generated writing is a form of shortcut for the brain as we don't have to mentally go through the iterative process of thinking and writing. It is also the reason why well-thought-out analyses are as rare as hen's teeth because the brain tends to fall back to heuristics or generalisations to reduce its energy usage. <span class="footnote-ref">[<a href="#f1">1</a>]</span><br><br>
+
+It may seem harmless, but the problem with extended use of AI for writing is that it makes you dumber. Writing is an essential part of human activity that trains the brain to visualize and solve problems. It engages multiple areas of your brain to 
+- come up with an idea given a specific context, 
+- outline your goal you want to achieve through this writing, 
+- understand the target audience, and 
+- find a coherent way to put your thoughts into words.<br><br>
+
+What you're really doing, without noticing, is outsourcing those steps to an LLM. The areas of the brain that are engaged during those steps are also used while problem solving, decision making, learning new habits, etc. Over time, as your brain adjusts to this reduced activity, it loses some of its ability to carry out these tasks efficiently.<br>
+
+![0 iq cat](/images/0iqcat.png)
+
+Earlier this year, MIT conducted a (not yet peer reviewed) study on the cognitive cost of using LLMs to write an essay. 54 subjects which were divided into three groups: one with access to ChatGPT, one using Google Search, and one with no external tools. The study was conducted over the course of four months and as time passed the ChatGPT group performed increasingly poor as compared control group without access to any external tools. ChatGPT group had the lowest brain engagement and weakest memory recall. They even faced difficulty in quoting their own work (that was generated with the "help" of ChatGPT). So, the more you let your AI do your thinking, the less capable you become of thinking at all. <span class="footnote-ref">[<a href="#f2">2</a>]</span><br><br>
+
+The short-term benefit of saving time with the use of AI might not be worth the long-term damage to your cognitive abilities unless you can replace writing with an equally engaging activity. This is even more damaging for the younger users as it could significantly hinder their cognitive growth.<br><br>
+
+I'm not trying to disparage the efficiency in work that is brought on by AI. There is no doubt that it has improved my productivity significantly. The problem arises when the use of AI becomes so ingrained that you are unable to form any sentences without any assistance from it. As sad as it sounds but you need to make a conscious effort to not give in to the temptation of letting AI write everything for you.
+
+<br><br><br><br>
+
+<div class="footnotes">
+
+## Footnotes
+
+<a name="f1">[1]</a> This is one of the brain operating principles that I came across while attending a elective called Neuroscience and Consumer Behaviour. It was taught by Prof. Arvind Sahay at IIMA. If you're interested in learning more about this, I strongly suggest you to read "Brands and the Brain: How to Use Neuroscience to Create Impactful Brands"
+
+<a name="f2">[2]</a> https://www.media.mit.edu/publications/your-brain-on-chatgpt
+
+</div>
+
+<br><br>
+
+<div class="thanks">
+Thanks to ChatGPT for reading drafts of this.
+</div>
