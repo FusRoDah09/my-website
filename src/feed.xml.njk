@@ -2,23 +2,22 @@
 permalink: /feed.xml
 eleventyExcludeFromCollections: true
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Darpan Choudhary - Writings</title>
-  <link href="https://darpanchoudhary.com/feed.xml" rel="self"/>
-  <link href="https://darpanchoudhary.com/"/>
-  <updated>{{ collections.writings[collections.writings.length - 1].date | rssDate }}</updated>
-  <id>https://darpanchoudhary.com/</id>
-  <author>
-    <name>Darpan Choudhary</name>
-  </author>
-  {% for post in collections.writings | reverse %}
-  <entry>
-    <title>{{ post.data.title }}</title>
-    <link href="https://darpanchoudhary.com{{ post.url }}"/>
-    <updated>{{ post.date | rssDate }}</updated>
-    <id>https://darpanchoudhary.com{{ post.url }}</id>
-    <content type="html"><![CDATA[{{ post.templateContent | safe }}]]></content>
-  </entry>
-  {% endfor %}
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darpan Choudhary - Writings</title>
+    <link>https://darpanchoudhary.com/</link>
+    <language>en-us</language>
+    <lastBuildDate>{{ collections.writings[collections.writings.length - 1].date | rssDate }}</lastBuildDate>
+    <atom:link href="https://darpanchoudhary.com/feed.xml" rel="self" type="application/rss+xml" />
+    {% for post in collections.writings | reverse %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>https://darpanchoudhary.com{{ post.url }}</link>
+      <guid isPermaLink="true">https://darpanchoudhary.com{{ post.url }}</guid>
+      <pubDate>{{ post.date | rssDate }}</pubDate>
+      <description><![CDATA[{{ post.templateContent | safe }}]]></description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
