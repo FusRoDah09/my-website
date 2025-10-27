@@ -26,6 +26,11 @@ module.exports = function(eleventyConfig) {
     return grouped;
   });
   
+  // RSS date filter
+  eleventyConfig.addFilter("rssDate", function(date) {
+    return new Date(date).toUTCString();
+  });
+  
   return {
     dir: {
       input: "src",
