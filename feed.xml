@@ -1,20 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Darpan Choudhary - Writings</title>
-  <link href="https://darpanchoudhary.com/feed.xml" rel="self"/>
-  <link href="https://darpanchoudhary.com/"/>
-  <updated>Sun, 24 Nov 2024 00:00:00 GMT</updated>
-  <id>https://darpanchoudhary.com/</id>
-  <author>
-    <name>Darpan Choudhary</name>
-  </author>
-  
-  <entry>
-    <title>MBA is (not?) important</title>
-    <link href="https://darpanchoudhary.com/writings/2024-11-24-mba-is-not-important/"/>
-    <updated>Sun, 24 Nov 2024 00:00:00 GMT</updated>
-    <id>https://darpanchoudhary.com/writings/2024-11-24-mba-is-not-important/</id>
-    <content type="html"><![CDATA[<p>The question of whether to pursue an MBA can feel overwhelming. Is it the golden ticket to career success? Or is it just a really expensive way to delay figuring out what you want to do with your life?</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darpan Choudhary - Writings</title>
+    <link>https://darpanchoudhary.com/</link>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://darpanchoudhary.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MBA is (not?) important</title>
+      <link>https://darpanchoudhary.com/writings/2024-11-24-mba-is-not-important/</link>
+      <guid isPermaLink="true">https://darpanchoudhary.com/writings/2024-11-24-mba-is-not-important/</guid>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p>The question of whether to pursue an MBA can feel overwhelming. Is it the golden ticket to career success? Or is it just a really expensive way to delay figuring out what you want to do with your life?</p>
 <p>I've lived through this debate. I studied at IIM Indore for my undergraduate program (IPM) and then went straight into an MBA at IIM Ahmedabad. Looking back, I can't say the decision was perfect, but it wasn't wrong either. It was just... mine.</p>
 <p>Let's talk about why an MBA might (or might not) make sense.<br>
 <br></p>
@@ -48,15 +46,15 @@
 <h4><strong>So, is it worth it?</strong></h4>
 <p>The answer depends on you. If you're clear about your goals and can access the networks and opportunities you need without an MBA, then maybe it's not necessary. But if you're looking for a reset, a launchpad, or a way to fast-track your career, an MBA (especially from a top school) can still be a solid investment.</p>
 <p>For me, the MBA wasn't a magic solution, but it was a meaningful chapter. It helped me grow, build connections, and step into a world I might not have accessed otherwise. If you're considering it, don't just think about whether it's worth the money. Think about whether it's worth your time, your energy, and your dreams. Because at the end of the day, the MBA is a tool. What you build with it is up to you.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title>Elite Capture</title>
-    <link href="https://darpanchoudhary.com/writings/2025-10-09-elite-capture/"/>
-    <updated>Fri, 10 Oct 2025 00:00:00 GMT</updated>
-    <id>https://darpanchoudhary.com/writings/2025-10-09-elite-capture/</id>
-    <content type="html"><![CDATA[<p>While reading Noam Chomsky's <em>Who Rules the World?</em> I came across an idea about the gap that exists between the demands of the commons and policies implemented by politicians in the United States. It's commonly known as elite capture, when those with wealth end up shaping the rules in their favour. The idea stuck with me because it is not unique to America. Every democracy seems to suffer from some version of it. What changes is the way it works.<br>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Elite Capture</title>
+      <link>https://darpanchoudhary.com/writings/2025-10-09-elite-capture/</link>
+      <guid isPermaLink="true">https://darpanchoudhary.com/writings/2025-10-09-elite-capture/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p>While reading Noam Chomsky's <em>Who Rules the World?</em> I came across an idea about the gap that exists between the demands of the commons and policies implemented by politicians in the United States. It's commonly known as elite capture, when those with wealth end up shaping the rules in their favour. The idea stuck with me because it is not unique to America. Every democracy seems to suffer from some version of it. What changes is the way it works.<br>
 <br></p>
 <p>The commons are consistently ignored, as politicians are driven to support only the needs of the elite. This happens because elites, who have amassed disproportionate levels of wealth, are the only ones who can bankroll these politicians during elections. These politicians then adopt policies that enrich the elite, leaving out the commons, and the cycle continues.<br>
 <br></p>
@@ -80,15 +78,15 @@
 <p><br><br></p>
 <div class="thanks">
 Thank you to Muskan, <a href="https://x.com/coldbrewdad">@coldbrewdad</a> and ChatGPT for taking the time to read and provide feedback on early drafts of this essay.
-</div>]]></content>
-  </entry>
-  
-  <entry>
-    <title>Don&#39;t let AI write everything for you</title>
-    <link href="https://darpanchoudhary.com/writings/2025-10-16-dont-let-ai-write-everything-for-you/"/>
-    <updated>Thu, 16 Oct 2025 00:00:00 GMT</updated>
-    <id>https://darpanchoudhary.com/writings/2025-10-16-dont-let-ai-write-everything-for-you/</id>
-    <content type="html"><![CDATA[<p>I have been trying to get back into writing regularly. I ran into more problems than I expected, mostly because I've relied so heavily on generative AI for the last two years. Once you get used to writing with AI, it's hard to go back. I still use AI, but I have limited its use to analysing whether the essay is unified and reads well. Before generative AI was a thing, it was much easier for me to come up with an early draft and then edit it myself.<br><br></p>
+</div>]]></description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t let AI write everything for you</title>
+      <link>https://darpanchoudhary.com/writings/2025-10-16-dont-let-ai-write-everything-for-you/</link>
+      <guid isPermaLink="true">https://darpanchoudhary.com/writings/2025-10-16-dont-let-ai-write-everything-for-you/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[<p>I have been trying to get back into writing regularly. I ran into more problems than I expected, mostly because I've relied so heavily on generative AI for the last two years. Once you get used to writing with AI, it's hard to go back. I still use AI, but I have limited its use to analysing whether the essay is unified and reads well. Before generative AI was a thing, it was much easier for me to come up with an early draft and then edit it myself.<br><br></p>
 <p>The reason is simple: our brains are lazy and enjoy taking shortcuts while thinking. AI generated writing is a form of shortcut for the brain as we don't have to mentally go through the iterative process of thinking and writing. It is also the reason why well-thought-out analyses are as rare as hen's teeth because the brain tends to fall back to heuristics or generalisations to reduce its energy usage. <span class="footnote-ref">[<a href="#f1">1</a>]</span><br><br></p>
 <p>It may seem harmless, but the problem with extended use of AI for writing is that it makes you dumber. Writing is an essential part of human activity that trains the brain to visualize and solve problems. It engages multiple areas of your brain to</p>
 <ul>
@@ -111,7 +109,8 @@ Thank you to Muskan, <a href="https://x.com/coldbrewdad">@coldbrewdad</a> and Ch
 <p><br><br></p>
 <div class="thanks">
 Thanks to ChatGPT for taking the time to read and provide feedback on early drafts of this essay.
-</div>]]></content>
-  </entry>
-  
-</feed>
+</div>]]></description>
+    </item>
+    
+  </channel>
+</rss>
