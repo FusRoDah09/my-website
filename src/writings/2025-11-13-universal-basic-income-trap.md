@@ -1,7 +1,7 @@
 ---
 layout: blog-layout.njk
 title: Trap of universal basic income
-date: 2025-10-16
+date: 2025-11-13
 ---
 
 Over the past few days there has been a growing interest around the idea of universal basic income (UBI). Lately, at least in the West, a lot of people on X (twitter) seem to like the idea. The idea is being flirted with by several political leaders and influential people in general. Elon Musk, Sam Altman, Jack Dorsey and Marc Benioff are among the many vocal supporters of universal basic income. There have been numerous studies by economists and pilots to understand the economic impact.<br><br>
@@ -13,10 +13,14 @@ I think of it as a three-player system: business, government, and society. Over 
 This matters even more with UBI. For years the labour constraint on growth has been one of the few levers society has in its favour. Businesses and government alike try to shape the opinion of the society to benefit themselves. There have been enough examples of polarisation, exploiting insecurities, targeting vulnerable populations and the list goes on.<br><br>
 
 The typical argument peddled by the influential tech leaders is that once AI enabled automation is prevalent in the industry, there will be no need for any of us to do work. Our lives won't revolve around our jobs, and we'll be free to pursue hobbies such as writing poetry or painting. It's an interesting shift in narrative coming from people who spent decades preaching hustle culture because it benefited them greatly in the past. If you step back, you notice that stories like this often serve the interests of those telling them. I would like to run through a chain of thought to show what could be the real motivator for pushing for UBI.<br>
+
 ![wojak](/images/cap-wojak.png)
+
 With the rise of AI, a lot of jobs will be automated away, and there will be a wave of layoffs. That alone could turn the majority against capitalism. To make those layoffs acceptable, the government will have to cushion the blow with UBI. So, you'll start seeing a rosy picture of UBI in the media, much of it sponsored by people who benefit from automation.<br><br>
 
-The government will support it too. If they control the source of income, they control compliance. And once society no longer plays a meaningful role in the economy, why would groups whose goal is to maximize profit and consolidate power care about its rights? Simply stated, introduction of UBI could potentially remove any remaining accountability on businesses and governments and reduce whatever bargaining power society has left.
+The government will support it too. If they control the source of income, they control compliance. And once society no longer plays a meaningful role in the economy, why would groups whose goal is to maximize profit and consolidate power care about its rights? Simply stated, introduction of UBI could potentially remove any remaining accountability on businesses and governments and reduce whatever bargaining power society has left.<br><br>
+
+None of this is inevitable. It only sounds dystopian because of the incentives we have now: a system where power concentrates upward and labour constraint is going away. If those incentives changed, the outcome could change with them. But as things stand, UBI feels like a way to increase the dependency of the society on the governments and businesses.
 
 <br><br><br><br>
 
@@ -28,4 +32,10 @@ The government will support it too. If they control the source of income, they c
 
 <a name="f2">[2]</a> This isn't an argument for communism or against capitalism. I'm critical of the extreme, financialized version of capitalism seen in the US. Capitalism works better than the alternatives, but it still needs a balancing act to keep it from running off the rails.
 
+</div>
+
+<br><br>
+
+<div class="thanks">
+Thanks to ChatGPT for taking the time to read and provide feedback on early drafts of this essay.
 </div>
