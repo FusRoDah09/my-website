@@ -43,5 +43,5 @@ It is an equilibrium because if any party chooses to tilt towards the wealthy to
 <br><br>
 
 <div class="thanks">
-Thank you to Muskan, <a href="https://x.com/coldbrewdad">@coldbrewdad</a> and ChatGPT for taking the time to read and provide feedback on early drafts of this essay.
+Thank you to Muskan and ChatGPT for taking the time to read and provide feedback on early drafts of this essay.
 </div>
