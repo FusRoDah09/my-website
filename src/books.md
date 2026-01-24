@@ -4,10 +4,19 @@ title: Books
 ---
 
 # Books
-*Last updated January 12, 2026*
+
+![Profile Picture](/images/image.png)
+<br>
+*Last updated January 24, 2026*
+
 ## Currently Reading
 
+- The Birth of Britain - Winston Churchill
+
+## Read in 2026
+
 - Value Investing and Behavioral Finance: Insights into stock market realities - Parag Parikh
+- White Nights - Fyodor Dostoyevsky
 
 ## Read in 2025
 
