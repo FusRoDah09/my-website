@@ -4,7 +4,5 @@ title: Home
 ---
 
 # Darpan Choudhary
+<img src="/images/cat-hb.gif" width="100%" height="150"/>
 
-![Profile Picture](/images/profile-shrug.png)
-
-Looking for quality athleisure? Visit [alai.fit](https://alai.fit)
