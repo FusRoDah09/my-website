@@ -14,7 +14,7 @@ This matters even more with UBI. For years the labour constraint on growth has b
 
 The typical argument peddled by the influential tech leaders is that once AI enabled automation is prevalent in the industry, there will be no need for any of us to do work. Our lives won't revolve around our jobs, and we'll be free to pursue hobbies such as writing poetry or painting. It's an interesting shift in narrative coming from people who spent decades preaching hustle culture because it benefited them greatly in the past. If you step back, you notice that stories like this often serve the interests of those telling them. I would like to run through a chain of thought to show what could be the real motivator for pushing for UBI.<br>
 
-![wojak](/images/cap-wojak.png)
+![wojak](/images/cap-wojak.webp)
 
 With the rise of AI, a lot of jobs will be automated away, and there will be a wave of layoffs. That alone could turn the majority against capitalism. To make those layoffs acceptable, the government will have to cushion the blow with UBI. So, you'll start seeing a rosy picture of UBI in the media, much of it sponsored by people who benefit from automation.<br><br>
 

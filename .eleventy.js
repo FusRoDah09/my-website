@@ -30,6 +30,33 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("rssDate", function(date) {
     return new Date(date).toUTCString();
   });
+
+  // Defer non-critical images so pages only download media they actually show.
+  eleventyConfig.addTransform("lazyLoadImages", function(content, outputPath) {
+    if (!outputPath || !outputPath.endsWith(".html")) {
+      return content;
+    }
+
+    return content.replace(/<img\b([^>]*?)>/g, (match, attrs) => {
+      if (
+        /\bloading\s*=/.test(attrs) ||
+        /\bfetchpriority\s*=/.test(attrs) ||
+        /\bdata-no-lazy\b/.test(attrs)
+      ) {
+        return match;
+      }
+
+      let nextAttrs = attrs;
+
+      if (!/\bdecoding\s*=/.test(nextAttrs)) {
+        nextAttrs += ' decoding="async"';
+      }
+
+      nextAttrs += ' loading="lazy"';
+
+      return `<img${nextAttrs}>`;
+    });
+  });
   
   return {
     dir: {

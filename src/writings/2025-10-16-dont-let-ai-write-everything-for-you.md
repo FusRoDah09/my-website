@@ -16,7 +16,7 @@ It may seem harmless, but the problem with extended use of AI for writing is tha
 
 What you're really doing, without noticing, is outsourcing those steps to an LLM. The areas of the brain that are engaged during those steps are also used for problem solving, decision making and learning new habits. Over time, as your brain adjusts to this reduced activity, it loses some of its ability to carry out these tasks efficiently.<br>
 
-![0 iq cat](/images/0iqcat.png)
+![0 iq cat](/images/0iqcat.webp)
 
 Earlier this year, MIT conducted a (not yet peer reviewed) study on the cognitive cost of using LLMs to write an essay. 54 subjects which were divided into three groups: one with access to ChatGPT, one using Google Search, and one with no external tools. The study was conducted over the course of four months and as time passed the ChatGPT group performed increasingly poor as compared control group without access to any external tools. ChatGPT group had the lowest brain engagement and weakest memory recall. They even faced difficulty in quoting their own work (that was generated with the "help" of ChatGPT). So, the more you let your AI do your thinking, the less capable you become of thinking at all. <span class="footnote-ref">[<a href="#f2">2</a>]</span><br><br>
 

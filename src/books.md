@@ -5,7 +5,7 @@ title: Books
 
 # Books
 
-![Profile Picture](/images/image.png)
+![Profile Picture](/images/image.webp)
 <br>
 *Last updated January 24, 2026*
 

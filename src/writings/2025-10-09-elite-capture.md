@@ -12,7 +12,7 @@ The commons are consistently ignored, as politicians are driven to support only 
 
 Some examples of these contradictions are easy to spot. Climate policy often reflects the interests of Big Oil. Budgets protect defence contractors while cutting Medicaid. Other relevant examples include downsizing the budgets of important regulatory bodies like the SEC and the FDA, and repeated tax cuts that disproportionately benefit the wealthy. You can see how this works in the case of Jeff Yass, the billionaire with a big stake in TikTok. He happened to be the top Republican donor in 2024. Quite predictably, Trump eventually reversed course on banning TikTok after meeting Yass. <span class="footnote-ref">[<a href="#f1">1</a>]</span><br>
 
-![palantir stare](/images/palantir.png)
+![palantir stare](/images/palantir.webp)
 
 The credit for elite capture in the US goes to its reserve currency status. Global savings started flowing into the US, as the US dollar was considered the safest currency. <span class="footnote-ref">[<a href="#f2">2</a>]</span> This caused a massive wave of financialization across the US economy. Finance began pulling resources away from other areas of the economy. Manufacturing was outsourced as it could not compete with the financial industry for capital or labour. The financialization led to a massive concentration of wealth within the finance industry, kick-starting the cycle of quid pro quo between Wall Street and policymakers. The effect is visible in the extreme wealth inequality: the US had a Gini coefficient of 41.8 in 2023. <span class="footnote-ref">[<a href="#f3">3</a>]</span><br>
 <br>
