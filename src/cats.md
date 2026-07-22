@@ -22,4 +22,12 @@ title: Cats
 <img src="/images/silly-cat-silly-car.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
 <img src="/images/happy-catto.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
 <img src="/images/reaction-meme-stan-twt.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/plane-cats.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/tomato-kick-cat.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/creature-cat.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/nuclear-cats.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/box-cat.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/portal-pat-cat.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/office-headset-cat.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
+<img src="/images/drool-cats.webp" loading="lazy" decoding="async" style="width: 100%; aspect-ratio: 1/1; object-fit: contain;"/>
 </div>
