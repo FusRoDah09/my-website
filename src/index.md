@@ -2,6 +2,7 @@
 layout: layout.njk
 title: Home
 pageStyles: /css/home.css
+showHitCounter: true
 ---
 
 # Darpan Choudhary
