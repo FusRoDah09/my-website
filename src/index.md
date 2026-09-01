@@ -7,12 +7,7 @@ pageStyles: /css/home.css
 # Darpan Choudhary
 <img src="/images/cat-hb.webp" width="100%" height="250" alt="Cat banner" fetchpriority="high" decoding="async"/>
 
-<section class="meowl-pet" aria-labelledby="meowl-pet-title">
-  <div class="meowl-pet__intro">
-    <h2 id="meowl-pet-title">Pet Meowl</h2>
-    <p>Press and hold the button to give Meowl a few pets.</p>
-  </div>
-
+<section class="meowl-pet" aria-label="Pet Meowl">
   <div class="meowl-pet__stage">
     <img
       id="meowl-image"
@@ -20,8 +15,8 @@ pageStyles: /css/home.css
       src="/images/meowl-rest.webp"
       data-rest-src="/images/meowl-rest.webp"
       data-petting-src="/images/meowl-petting.webp"
-      width="156"
-      height="156"
+      width="88"
+      height="88"
       alt="Meowl perched on a branch"
       decoding="async"
       draggable="false"

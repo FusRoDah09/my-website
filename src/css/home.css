@@ -1,22 +1,5 @@
 .meowl-pet {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 14px;
     margin: 30px 0 10px;
-    text-align: left;
-}
-
-.meowl-pet__intro {
-    max-width: 360px;
-}
-
-.meowl-pet__intro h2 {
-    margin: 0 0 4px;
-}
-
-.meowl-pet__intro p {
-    margin: 0;
 }
 
 .meowl-pet__stage {
@@ -27,25 +10,24 @@
 
 .meowl-pet__image {
     display: block;
-    width: 156px;
-    height: 156px;
+    width: 88px;
+    height: 88px;
     margin: 0;
     object-fit: cover;
     object-position: center;
-    image-rendering: auto;
     user-select: none;
     -webkit-user-drag: none;
 }
 
 .meowl-pet__button {
-    width: 156px;
-    padding: 8px 14px;
+    width: 88px;
+    height: 31px;
+    padding: 0;
     border: 0;
     border-radius: 0;
-    background: #f0f0f0;
-    color: #000;
+    background: url("/images/hold-to-pet-reference.webp") center / 88px 31px no-repeat;
+    color: transparent;
     font: inherit;
-    font-weight: normal;
     white-space: nowrap;
     cursor: pointer;
     outline: none;
@@ -57,13 +39,12 @@
 
 .meowl-pet__button:hover,
 .meowl-pet__button:focus-visible {
-    background: #e2e2e2;
+    filter: brightness(1.08);
 }
 
 .meowl-pet__button.is-petting {
     transform: translateY(1px);
-    background: #d8d8d8;
-    outline: none;
+    filter: brightness(.92);
 }
 
 .meowl-pet__status {
@@ -80,7 +61,6 @@
 
 @media (max-width: 560px) {
     .meowl-pet {
-        gap: 10px;
         margin-top: 22px;
     }
 }
