@@ -59,26 +59,6 @@
     border: 0;
 }
 
-.hit-counter {
-    display: block;
-    flex: 0 0 auto;
-    order: 2;
-    max-width: 100%;
-    height: auto;
-    margin: 0 0 0 auto;
-}
-
-body > footer {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding-top: 8px;
-}
-
-body > footer p {
-    order: 1;
-}
-
 @media (max-width: 560px) {
     .meowl-pet {
         margin-top: 22px;
